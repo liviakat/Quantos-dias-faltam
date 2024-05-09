@@ -6,16 +6,15 @@
     --branco: #FFFFFF;
 }
 body {
-    backgroud-color: var(--cor-de-fundo);
-    color: var (--branco);
-    font-family: Chakra Petch , sans-serif;
-    text-aligh: center;
+    background-color: var(--cor-de-fundo);
+    color: var(--branco);
+    font-family: 'Chakra Petch', sans-serif;
+    text-align: center;
 }
 h1 span{
     color: var(--verde);
 }
-#dias_restante{
+#dias_restantes{
     color: var(--verde);
     font-size: 50px;
 }
-
